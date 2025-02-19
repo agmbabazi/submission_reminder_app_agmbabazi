@@ -104,3 +104,5 @@ chmod +x "$dir_name/startup.sh"
 
 # Notify user of completion
 echo "Environment setup completed successfully in $dir_name"
+cd $dir_name
+./startup.sh
