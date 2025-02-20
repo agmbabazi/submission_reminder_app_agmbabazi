@@ -28,7 +28,7 @@ Kamali Shell Navigation,Submitted
 Keza, Shell Navigation,Submitted
 John, Shell Navigation, Not Submitted
 Ruth,Shell Navigation, Not Submitted
-Joy, Shell Nvigation, Not Submitted
+Joy, Shell Navigation, Not Submitted
 EOF
 
 # Populate functions.sh with logic to check submissions
